@@ -1,0 +1,6 @@
+{
+    "gitlens.codeLens.includeSingleLineSymbols": true,
+    "gitlens.codeLens.symbolScopes": [
+        "saul"
+    ]
+}
